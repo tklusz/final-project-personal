@@ -1,3 +1,3 @@
-user_ip = "99.191.35.251"
+user_ip = "0.0.0.0"
 
 cluster_name = "eks_master_cluster"
